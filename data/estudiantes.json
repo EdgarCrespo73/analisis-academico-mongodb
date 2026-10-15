@@ -1,0 +1,2282 @@
+[
+  {
+    "_id": "EST-0001",
+    "cedula": "1003998695",
+    "nombres": "Sofía Diana",
+    "apellidos": "Jaramillo Quishpe",
+    "genero": "F",
+    "fecha_nacimiento": {
+      "$date": "2002-08-25T00:00:00Z"
+    },
+    "correo": "sofia.jaramillo@estudiante.ejemplo.edu.ec",
+    "ciudad": "Ibarra",
+    "carrera": "Redes y Telecomunicaciones",
+    "jornada": "MATUTINA",
+    "trabaja": false,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-15T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0002",
+    "cedula": "1755364559",
+    "nombres": "Jessica Ana",
+    "apellidos": "Proaño Valencia",
+    "genero": "F",
+    "fecha_nacimiento": {
+      "$date": "1990-11-03T00:00:00Z"
+    },
+    "correo": "jessica.proano@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Redes y Telecomunicaciones",
+    "jornada": "NOCTURNA",
+    "trabaja": false,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-13T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0003",
+    "cedula": "1727616987",
+    "nombres": "Belén Karla",
+    "apellidos": "López Suárez",
+    "genero": "F",
+    "fecha_nacimiento": {
+      "$date": "2004-10-16T00:00:00Z"
+    },
+    "correo": "belen.lopez@estudiante.ejemplo.edu.ec",
+    "ciudad": "Sangolqui",
+    "carrera": "Ciencia de Datos e Inteligencia Artificial",
+    "jornada": "MATUTINA",
+    "trabaja": true,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-16T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0004",
+    "cedula": "1710819671",
+    "nombres": "Darwin Ricardo",
+    "apellidos": "Ortiz López",
+    "genero": "M",
+    "fecha_nacimiento": {
+      "$date": "2002-02-21T00:00:00Z"
+    },
+    "correo": "darwin.ortiz@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Redes y Telecomunicaciones",
+    "jornada": "MATUTINA",
+    "trabaja": false,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-15T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0005",
+    "cedula": "1758766347",
+    "nombres": "Pablo Christian",
+    "apellidos": "Cajas Morales",
+    "genero": "M",
+    "fecha_nacimiento": {
+      "$date": "2002-11-20T00:00:00Z"
+    },
+    "correo": "pablo.cajas@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Ciencia de Datos e Inteligencia Artificial",
+    "jornada": "NOCTURNA",
+    "trabaja": true,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-16T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0006",
+    "cedula": "1738045713",
+    "nombres": "Esteban Darwin",
+    "apellidos": "Espinosa Proaño",
+    "genero": "M",
+    "fecha_nacimiento": {
+      "$date": "2004-05-15T00:00:00Z"
+    },
+    "correo": "esteban.espinosa@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Desarrollo de Software",
+    "jornada": "MATUTINA",
+    "trabaja": false,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-14T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0007",
+    "cedula": "1732701071",
+    "nombres": "Alexis Jorge",
+    "apellidos": "Ruiz Chávez",
+    "genero": "M",
+    "fecha_nacimiento": {
+      "$date": "2004-10-26T00:00:00Z"
+    },
+    "correo": "alexis.ruiz@estudiante.ejemplo.edu.ec",
+    "ciudad": "Sangolqui",
+    "carrera": "Desarrollo de Software",
+    "jornada": "NOCTURNA",
+    "trabaja": false,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-11T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0008",
+    "cedula": "1747283792",
+    "nombres": "Jorge Andrés",
+    "apellidos": "López Herrera",
+    "genero": "M",
+    "fecha_nacimiento": {
+      "$date": "2003-09-10T00:00:00Z"
+    },
+    "correo": "jorge.lopez@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Desarrollo de Software",
+    "jornada": "MATUTINA",
+    "trabaja": false,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-14T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0009",
+    "cedula": "1716016108",
+    "nombres": "Darwin Fernando",
+    "apellidos": "Cevallos Ortiz",
+    "genero": "M",
+    "fecha_nacimiento": {
+      "$date": "2006-01-17T00:00:00Z"
+    },
+    "correo": "darwin.cevallos@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Ciencia de Datos e Inteligencia Artificial",
+    "jornada": "NOCTURNA",
+    "trabaja": true,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-13T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0010",
+    "cedula": "1748369574",
+    "nombres": "Esteban Sebastián",
+    "apellidos": "Toapanta Ortiz",
+    "genero": "M",
+    "fecha_nacimiento": {
+      "$date": "2004-09-13T00:00:00Z"
+    },
+    "correo": "esteban.toapanta@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Desarrollo de Software",
+    "jornada": "NOCTURNA",
+    "trabaja": true,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-11T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0011",
+    "cedula": "1702838226",
+    "nombres": "Jessica Gabriela",
+    "apellidos": "Mora Aguirre",
+    "genero": "F",
+    "fecha_nacimiento": {
+      "$date": "1998-07-18T00:00:00Z"
+    },
+    "correo": "jessica.mora@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Ciencia de Datos e Inteligencia Artificial",
+    "jornada": "NOCTURNA",
+    "trabaja": true,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-09T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0012",
+    "cedula": "1747718847",
+    "nombres": "Alexis Fernando",
+    "apellidos": "Morales Salazar",
+    "genero": "M",
+    "fecha_nacimiento": {
+      "$date": "1999-01-03T00:00:00Z"
+    },
+    "correo": "alexis.morales@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Ciencia de Datos e Inteligencia Artificial",
+    "jornada": "NOCTURNA",
+    "trabaja": false,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-18T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0013",
+    "cedula": "1759831942",
+    "nombres": "Ana Fernanda",
+    "apellidos": "Suárez Andrade",
+    "genero": "F",
+    "fecha_nacimiento": {
+      "$date": "2000-10-10T00:00:00Z"
+    },
+    "correo": "ana.suarez@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Redes y Telecomunicaciones",
+    "jornada": "NOCTURNA",
+    "trabaja": true,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-12T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0014",
+    "cedula": "1722185491",
+    "nombres": "Mishell Daniela",
+    "apellidos": "Ruiz Cajas",
+    "genero": "F",
+    "fecha_nacimiento": {
+      "$date": "1996-03-09T00:00:00Z"
+    },
+    "correo": "mishell.ruiz@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Ciencia de Datos e Inteligencia Artificial",
+    "jornada": "NOCTURNA",
+    "trabaja": true,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-09T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0015",
+    "cedula": "1721189551",
+    "nombres": "Fernando Carlos",
+    "apellidos": "Pérez Ruiz",
+    "genero": "M",
+    "fecha_nacimiento": {
+      "$date": "2005-07-11T00:00:00Z"
+    },
+    "correo": "fernando.perez@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Redes y Telecomunicaciones",
+    "jornada": "NOCTURNA",
+    "trabaja": true,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-11T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0016",
+    "cedula": "1725060451",
+    "nombres": "Fernanda Diana",
+    "apellidos": "Cajas Yépez",
+    "genero": "F",
+    "fecha_nacimiento": {
+      "$date": "2002-02-10T00:00:00Z"
+    },
+    "correo": "fernanda.cajas@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Ciencia de Datos e Inteligencia Artificial",
+    "jornada": "MATUTINA",
+    "trabaja": false,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-13T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0017",
+    "cedula": "1701028597",
+    "nombres": "Alejandra María",
+    "apellidos": "Benítez Ruiz",
+    "genero": "F",
+    "fecha_nacimiento": {
+      "$date": "2006-07-19T00:00:00Z"
+    },
+    "correo": "alejandra.benitez@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Desarrollo de Software",
+    "jornada": "NOCTURNA",
+    "trabaja": true,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-13T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0018",
+    "cedula": "1748642301",
+    "nombres": "Camila Daniela",
+    "apellidos": "Zambrano López",
+    "genero": "F",
+    "fecha_nacimiento": {
+      "$date": "2005-05-11T00:00:00Z"
+    },
+    "correo": "camila.zambrano@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Desarrollo de Software",
+    "jornada": "MATUTINA",
+    "trabaja": false,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-18T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0019",
+    "cedula": "1750370387",
+    "nombres": "David Darwin",
+    "apellidos": "Espinosa Benítez",
+    "genero": "M",
+    "fecha_nacimiento": {
+      "$date": "1994-12-12T00:00:00Z"
+    },
+    "correo": "david.espinosa@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Desarrollo de Software",
+    "jornada": "NOCTURNA",
+    "trabaja": false,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-16T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0020",
+    "cedula": "1759432626",
+    "nombres": "Esteban Ricardo",
+    "apellidos": "Zambrano Ortiz",
+    "genero": "M",
+    "fecha_nacimiento": {
+      "$date": "2006-09-23T00:00:00Z"
+    },
+    "correo": "esteban.zambrano@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Ciencia de Datos e Inteligencia Artificial",
+    "jornada": "MATUTINA",
+    "trabaja": true,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-08T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0021",
+    "cedula": "1759490665",
+    "nombres": "Andrés Juan",
+    "apellidos": "Valencia López",
+    "genero": "M",
+    "fecha_nacimiento": {
+      "$date": "2002-11-22T00:00:00Z"
+    },
+    "correo": "andres.valencia@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Desarrollo de Software",
+    "jornada": "MATUTINA",
+    "trabaja": false,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-16T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0022",
+    "cedula": "1712448453",
+    "nombres": "Santiago José",
+    "apellidos": "Benítez Villacís",
+    "genero": "M",
+    "fecha_nacimiento": {
+      "$date": "2003-11-01T00:00:00Z"
+    },
+    "correo": "santiago.benitez@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Redes y Telecomunicaciones",
+    "jornada": "MATUTINA",
+    "trabaja": false,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-18T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0023",
+    "cedula": "1710180512",
+    "nombres": "Diana Ana",
+    "apellidos": "Andrade Herrera",
+    "genero": "F",
+    "fecha_nacimiento": {
+      "$date": "2007-10-20T00:00:00Z"
+    },
+    "correo": "diana.andrade@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Desarrollo de Software",
+    "jornada": "MATUTINA",
+    "trabaja": false,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0024",
+    "cedula": "1727718833",
+    "nombres": "Estefanía Paola",
+    "apellidos": "Toapanta Morales",
+    "genero": "F",
+    "fecha_nacimiento": {
+      "$date": "1992-10-12T00:00:00Z"
+    },
+    "correo": "estefania.toapanta@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Desarrollo de Software",
+    "jornada": "NOCTURNA",
+    "trabaja": true,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-09T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0025",
+    "cedula": "1745576528",
+    "nombres": "Mateo Bryan",
+    "apellidos": "Andrade Herrera",
+    "genero": "M",
+    "fecha_nacimiento": {
+      "$date": "2002-12-12T00:00:00Z"
+    },
+    "correo": "mateo.andrade@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Ciencia de Datos e Inteligencia Artificial",
+    "jornada": "MATUTINA",
+    "trabaja": false,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-14T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0026",
+    "cedula": "1705474284",
+    "nombres": "Sebastián Andrés",
+    "apellidos": "Paredes Vera",
+    "genero": "M",
+    "fecha_nacimiento": {
+      "$date": "2002-09-25T00:00:00Z"
+    },
+    "correo": "sebastian.paredes@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Desarrollo de Software",
+    "jornada": "NOCTURNA",
+    "trabaja": true,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-12T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0027",
+    "cedula": "1757883655",
+    "nombres": "Alejandra Sofía",
+    "apellidos": "Cajas Paredes",
+    "genero": "F",
+    "fecha_nacimiento": {
+      "$date": "1994-12-06T00:00:00Z"
+    },
+    "correo": "alejandra.cajas@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Desarrollo de Software",
+    "jornada": "NOCTURNA",
+    "trabaja": true,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-12T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0028",
+    "cedula": "1711450377",
+    "nombres": "Alexis Ricardo",
+    "apellidos": "Herrera López",
+    "genero": "M",
+    "fecha_nacimiento": {
+      "$date": "2006-02-18T00:00:00Z"
+    },
+    "correo": "alexis.herrera@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Redes y Telecomunicaciones",
+    "jornada": "MATUTINA",
+    "trabaja": false,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-11T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0029",
+    "cedula": "1754196895",
+    "nombres": "Bryan Esteban",
+    "apellidos": "Chávez Toapanta",
+    "genero": "M",
+    "fecha_nacimiento": {
+      "$date": "1998-07-02T00:00:00Z"
+    },
+    "correo": "bryan.chavez@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Desarrollo de Software",
+    "jornada": "NOCTURNA",
+    "trabaja": true,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-16T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0030",
+    "cedula": "1727540724",
+    "nombres": "David Ricardo",
+    "apellidos": "Castillo Herrera",
+    "genero": "M",
+    "fecha_nacimiento": {
+      "$date": "2006-08-07T00:00:00Z"
+    },
+    "correo": "david.castillo@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Ciencia de Datos e Inteligencia Artificial",
+    "jornada": "MATUTINA",
+    "trabaja": false,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-12T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0031",
+    "cedula": "1758479180",
+    "nombres": "Mishell Lucía",
+    "apellidos": "Benítez Quishpe",
+    "genero": "F",
+    "fecha_nacimiento": {
+      "$date": "1991-06-22T00:00:00Z"
+    },
+    "correo": "mishell.benitez@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Ciencia de Datos e Inteligencia Artificial",
+    "jornada": "NOCTURNA",
+    "trabaja": true,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-13T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0032",
+    "cedula": "1709307332",
+    "nombres": "Paola Diana",
+    "apellidos": "Jaramillo Suárez",
+    "genero": "F",
+    "fecha_nacimiento": {
+      "$date": "2007-09-07T00:00:00Z"
+    },
+    "correo": "paola.jaramillo@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Ciencia de Datos e Inteligencia Artificial",
+    "jornada": "MATUTINA",
+    "trabaja": false,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-19T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0033",
+    "cedula": "1712982220",
+    "nombres": "Jorge Christian",
+    "apellidos": "Zambrano Toapanta",
+    "genero": "M",
+    "fecha_nacimiento": {
+      "$date": "1988-01-26T00:00:00Z"
+    },
+    "correo": "jorge.zambrano@estudiante.ejemplo.edu.ec",
+    "ciudad": "Sangolqui",
+    "carrera": "Redes y Telecomunicaciones",
+    "jornada": "NOCTURNA",
+    "trabaja": false,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-08T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0034",
+    "cedula": "1712022696",
+    "nombres": "Paola Alejandra",
+    "apellidos": "Aguirre Castillo",
+    "genero": "F",
+    "fecha_nacimiento": {
+      "$date": "2008-05-08T00:00:00Z"
+    },
+    "correo": "paola.aguirre@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Redes y Telecomunicaciones",
+    "jornada": "MATUTINA",
+    "trabaja": false,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-13T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0035",
+    "cedula": "1730015946",
+    "nombres": "Andrés David",
+    "apellidos": "García Aguirre",
+    "genero": "M",
+    "fecha_nacimiento": {
+      "$date": "2004-04-28T00:00:00Z"
+    },
+    "correo": "andres.garcia@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Desarrollo de Software",
+    "jornada": "MATUTINA",
+    "trabaja": true,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-14T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0036",
+    "cedula": "1736753474",
+    "nombres": "Andrea Carolina",
+    "apellidos": "Chávez Castillo",
+    "genero": "F",
+    "fecha_nacimiento": {
+      "$date": "1991-02-07T00:00:00Z"
+    },
+    "correo": "andrea.chavez@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Redes y Telecomunicaciones",
+    "jornada": "NOCTURNA",
+    "trabaja": true,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-11T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0037",
+    "cedula": "1730824453",
+    "nombres": "Valeria Daniela",
+    "apellidos": "Chávez Quishpe",
+    "genero": "F",
+    "fecha_nacimiento": {
+      "$date": "2005-05-27T00:00:00Z"
+    },
+    "correo": "valeria.chavez@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Ciencia de Datos e Inteligencia Artificial",
+    "jornada": "MATUTINA",
+    "trabaja": false,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-15T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0038",
+    "cedula": "1708541774",
+    "nombres": "Fernanda Jessica",
+    "apellidos": "Cevallos Toapanta",
+    "genero": "F",
+    "fecha_nacimiento": {
+      "$date": "2004-09-04T00:00:00Z"
+    },
+    "correo": "fernanda.cevallos@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Ciencia de Datos e Inteligencia Artificial",
+    "jornada": "MATUTINA",
+    "trabaja": false,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-12T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0039",
+    "cedula": "1747978029",
+    "nombres": "Sebastián Juan",
+    "apellidos": "Cevallos Ortiz",
+    "genero": "M",
+    "fecha_nacimiento": {
+      "$date": "2003-07-03T00:00:00Z"
+    },
+    "correo": "sebastian.cevallos@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Desarrollo de Software",
+    "jornada": "NOCTURNA",
+    "trabaja": true,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-16T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0040",
+    "cedula": "0122473572",
+    "nombres": "Nicole Diana",
+    "apellidos": "Ruiz Benítez",
+    "genero": "F",
+    "fecha_nacimiento": {
+      "$date": "1990-06-14T00:00:00Z"
+    },
+    "correo": "nicole.ruiz@estudiante.ejemplo.edu.ec",
+    "ciudad": "Cuenca",
+    "carrera": "Desarrollo de Software",
+    "jornada": "NOCTURNA",
+    "trabaja": true,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-15T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0041",
+    "cedula": "1707360879",
+    "nombres": "Belén Carolina",
+    "apellidos": "Villacís Cevallos",
+    "genero": "F",
+    "fecha_nacimiento": {
+      "$date": "1990-06-09T00:00:00Z"
+    },
+    "correo": "belen.villacis@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Ciencia de Datos e Inteligencia Artificial",
+    "jornada": "NOCTURNA",
+    "trabaja": true,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-19T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0042",
+    "cedula": "0541827614",
+    "nombres": "Diana Valeria",
+    "apellidos": "Villacís Castillo",
+    "genero": "F",
+    "fecha_nacimiento": {
+      "$date": "1993-07-01T00:00:00Z"
+    },
+    "correo": "diana.villacis@estudiante.ejemplo.edu.ec",
+    "ciudad": "Latacunga",
+    "carrera": "Desarrollo de Software",
+    "jornada": "NOCTURNA",
+    "trabaja": false,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-11T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0043",
+    "cedula": "0903817807",
+    "nombres": "Jorge Luis",
+    "apellidos": "Vera Andrade",
+    "genero": "M",
+    "fecha_nacimiento": {
+      "$date": "2003-08-27T00:00:00Z"
+    },
+    "correo": "jorge.vera@estudiante.ejemplo.edu.ec",
+    "ciudad": "Guayaquil",
+    "carrera": "Redes y Telecomunicaciones",
+    "jornada": "MATUTINA",
+    "trabaja": false,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-18T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0044",
+    "cedula": "1704304904",
+    "nombres": "Carolina María",
+    "apellidos": "Morales Torres",
+    "genero": "F",
+    "fecha_nacimiento": {
+      "$date": "2003-12-18T00:00:00Z"
+    },
+    "correo": "carolina.morales@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Desarrollo de Software",
+    "jornada": "MATUTINA",
+    "trabaja": false,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-16T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0045",
+    "cedula": "1703006682",
+    "nombres": "Alejandra Fernanda",
+    "apellidos": "Guerrero Zambrano",
+    "genero": "F",
+    "fecha_nacimiento": {
+      "$date": "2007-03-08T00:00:00Z"
+    },
+    "correo": "alejandra.guerrero@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Desarrollo de Software",
+    "jornada": "MATUTINA",
+    "trabaja": false,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-16T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0046",
+    "cedula": "1719837252",
+    "nombres": "Jessica Lucía",
+    "apellidos": "López Castillo",
+    "genero": "F",
+    "fecha_nacimiento": {
+      "$date": "2007-01-27T00:00:00Z"
+    },
+    "correo": "jessica.lopez@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Ciencia de Datos e Inteligencia Artificial",
+    "jornada": "MATUTINA",
+    "trabaja": false,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-09T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0047",
+    "cedula": "1704316346",
+    "nombres": "Darwin Jorge",
+    "apellidos": "Torres Benítez",
+    "genero": "M",
+    "fecha_nacimiento": {
+      "$date": "1988-03-10T00:00:00Z"
+    },
+    "correo": "darwin.torres@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Redes y Telecomunicaciones",
+    "jornada": "NOCTURNA",
+    "trabaja": true,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-16T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0048",
+    "cedula": "1719871129",
+    "nombres": "Jessica Belén",
+    "apellidos": "Ruiz Guerrero",
+    "genero": "F",
+    "fecha_nacimiento": {
+      "$date": "2007-07-09T00:00:00Z"
+    },
+    "correo": "jessica.ruiz@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Desarrollo de Software",
+    "jornada": "MATUTINA",
+    "trabaja": false,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-15T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0049",
+    "cedula": "0137447967",
+    "nombres": "Esteban Luis",
+    "apellidos": "Suárez Cevallos",
+    "genero": "M",
+    "fecha_nacimiento": {
+      "$date": "2002-03-04T00:00:00Z"
+    },
+    "correo": "esteban.suarez@estudiante.ejemplo.edu.ec",
+    "ciudad": "Cuenca",
+    "carrera": "Redes y Telecomunicaciones",
+    "jornada": "MATUTINA",
+    "trabaja": false,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-16T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0050",
+    "cedula": "1732958630",
+    "nombres": "Bryan David",
+    "apellidos": "Andrade Ortiz",
+    "genero": "M",
+    "fecha_nacimiento": {
+      "$date": "1989-09-13T00:00:00Z"
+    },
+    "correo": "bryan.andrade@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Redes y Telecomunicaciones",
+    "jornada": "NOCTURNA",
+    "trabaja": true,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-12T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0051",
+    "cedula": "1059276707",
+    "nombres": "José Kevin",
+    "apellidos": "Morales Andrade",
+    "genero": "M",
+    "fecha_nacimiento": {
+      "$date": "1990-06-18T00:00:00Z"
+    },
+    "correo": "jose.morales@estudiante.ejemplo.edu.ec",
+    "ciudad": "Ibarra",
+    "carrera": "Ciencia de Datos e Inteligencia Artificial",
+    "jornada": "NOCTURNA",
+    "trabaja": false,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-14T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0052",
+    "cedula": "0638306860",
+    "nombres": "Ricardo Darwin",
+    "apellidos": "Castillo Proaño",
+    "genero": "M",
+    "fecha_nacimiento": {
+      "$date": "2006-04-18T00:00:00Z"
+    },
+    "correo": "ricardo.castillo@estudiante.ejemplo.edu.ec",
+    "ciudad": "Riobamba",
+    "carrera": "Redes y Telecomunicaciones",
+    "jornada": "MATUTINA",
+    "trabaja": false,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-14T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0053",
+    "cedula": "1732683501",
+    "nombres": "Andrea Gabriela",
+    "apellidos": "Andrade Mora",
+    "genero": "F",
+    "fecha_nacimiento": {
+      "$date": "2008-04-13T00:00:00Z"
+    },
+    "correo": "andrea.andrade@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Desarrollo de Software",
+    "jornada": "MATUTINA",
+    "trabaja": false,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-15T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0054",
+    "cedula": "1801527613",
+    "nombres": "Mishell Andrea",
+    "apellidos": "Herrera Morales",
+    "genero": "F",
+    "fecha_nacimiento": {
+      "$date": "2000-09-28T00:00:00Z"
+    },
+    "correo": "mishell.herrera@estudiante.ejemplo.edu.ec",
+    "ciudad": "Ambato",
+    "carrera": "Ciencia de Datos e Inteligencia Artificial",
+    "jornada": "NOCTURNA",
+    "trabaja": false,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-13T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0055",
+    "cedula": "1746210762",
+    "nombres": "Jessica Nicole",
+    "apellidos": "Suárez Yépez",
+    "genero": "F",
+    "fecha_nacimiento": {
+      "$date": "1991-01-15T00:00:00Z"
+    },
+    "correo": "jessica.suarez@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Ciencia de Datos e Inteligencia Artificial",
+    "jornada": "NOCTURNA",
+    "trabaja": true,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-13T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0056",
+    "cedula": "1731520290",
+    "nombres": "Luis Mateo",
+    "apellidos": "Aguirre Zambrano",
+    "genero": "M",
+    "fecha_nacimiento": {
+      "$date": "1993-02-23T00:00:00Z"
+    },
+    "correo": "luis.aguirre@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Desarrollo de Software",
+    "jornada": "NOCTURNA",
+    "trabaja": true,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-13T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0057",
+    "cedula": "1044398285",
+    "nombres": "Belén Paola",
+    "apellidos": "Herrera Paredes",
+    "genero": "F",
+    "fecha_nacimiento": {
+      "$date": "2004-05-17T00:00:00Z"
+    },
+    "correo": "belen.herrera@estudiante.ejemplo.edu.ec",
+    "ciudad": "Ibarra",
+    "carrera": "Ciencia de Datos e Inteligencia Artificial",
+    "jornada": "MATUTINA",
+    "trabaja": true,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-12T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0058",
+    "cedula": "1724193030",
+    "nombres": "Diego Jorge",
+    "apellidos": "Proaño Jaramillo",
+    "genero": "M",
+    "fecha_nacimiento": {
+      "$date": "1996-12-21T00:00:00Z"
+    },
+    "correo": "diego.proano@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Desarrollo de Software",
+    "jornada": "NOCTURNA",
+    "trabaja": true,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-18T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0059",
+    "cedula": "0657959656",
+    "nombres": "Juan Jorge",
+    "apellidos": "Suárez Proaño",
+    "genero": "M",
+    "fecha_nacimiento": {
+      "$date": "2003-06-26T00:00:00Z"
+    },
+    "correo": "juan.suarez@estudiante.ejemplo.edu.ec",
+    "ciudad": "Riobamba",
+    "carrera": "Ciencia de Datos e Inteligencia Artificial",
+    "jornada": "MATUTINA",
+    "trabaja": false,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-15T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0060",
+    "cedula": "1726464405",
+    "nombres": "Karla Alejandra",
+    "apellidos": "Zambrano Ortiz",
+    "genero": "F",
+    "fecha_nacimiento": {
+      "$date": "2007-03-02T00:00:00Z"
+    },
+    "correo": "karla.zambrano@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Redes y Telecomunicaciones",
+    "jornada": "MATUTINA",
+    "trabaja": true,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-13T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0061",
+    "cedula": "1722163118",
+    "nombres": "Nicole Alejandra",
+    "apellidos": "Jaramillo Quishpe",
+    "genero": "F",
+    "fecha_nacimiento": {
+      "$date": "2004-10-28T00:00:00Z"
+    },
+    "correo": "nicole.jaramillo@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Redes y Telecomunicaciones",
+    "jornada": "NOCTURNA",
+    "trabaja": false,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-19T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0062",
+    "cedula": "1733064248",
+    "nombres": "Karla Mishell",
+    "apellidos": "Yépez Castillo",
+    "genero": "F",
+    "fecha_nacimiento": {
+      "$date": "2001-10-13T00:00:00Z"
+    },
+    "correo": "karla.yepez@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Redes y Telecomunicaciones",
+    "jornada": "NOCTURNA",
+    "trabaja": false,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-08T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0063",
+    "cedula": "1702634781",
+    "nombres": "Esteban Andrés",
+    "apellidos": "Ortiz López",
+    "genero": "M",
+    "fecha_nacimiento": {
+      "$date": "2001-12-10T00:00:00Z"
+    },
+    "correo": "esteban.ortiz@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Desarrollo de Software",
+    "jornada": "NOCTURNA",
+    "trabaja": true,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-09T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0064",
+    "cedula": "1743354142",
+    "nombres": "Ana Fernanda",
+    "apellidos": "Villacís Cajas",
+    "genero": "F",
+    "fecha_nacimiento": {
+      "$date": "2004-02-23T00:00:00Z"
+    },
+    "correo": "ana.villacis@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Desarrollo de Software",
+    "jornada": "MATUTINA",
+    "trabaja": true,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-15T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0065",
+    "cedula": "1734975335",
+    "nombres": "Camila Gabriela",
+    "apellidos": "Zambrano Vera",
+    "genero": "F",
+    "fecha_nacimiento": {
+      "$date": "1991-02-21T00:00:00Z"
+    },
+    "correo": "camila.zambrano2@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Redes y Telecomunicaciones",
+    "jornada": "NOCTURNA",
+    "trabaja": false,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0066",
+    "cedula": "1727042473",
+    "nombres": "Alejandra Fernanda",
+    "apellidos": "Suárez Yépez",
+    "genero": "F",
+    "fecha_nacimiento": {
+      "$date": "2003-02-07T00:00:00Z"
+    },
+    "correo": "alejandra.suarez@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Ciencia de Datos e Inteligencia Artificial",
+    "jornada": "MATUTINA",
+    "trabaja": false,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-09T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0067",
+    "cedula": "0150146132",
+    "nombres": "David Santiago",
+    "apellidos": "Morales García",
+    "genero": "M",
+    "fecha_nacimiento": {
+      "$date": "2006-01-11T00:00:00Z"
+    },
+    "correo": "david.morales@estudiante.ejemplo.edu.ec",
+    "ciudad": "Cuenca",
+    "carrera": "Desarrollo de Software",
+    "jornada": "NOCTURNA",
+    "trabaja": false,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-08T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0068",
+    "cedula": "1729776052",
+    "nombres": "David Pablo",
+    "apellidos": "Benítez Toapanta",
+    "genero": "M",
+    "fecha_nacimiento": {
+      "$date": "1998-09-21T00:00:00Z"
+    },
+    "correo": "david.benitez@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Redes y Telecomunicaciones",
+    "jornada": "NOCTURNA",
+    "trabaja": true,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-13T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0069",
+    "cedula": "1740727613",
+    "nombres": "Mishell Jessica",
+    "apellidos": "Yépez Cajas",
+    "genero": "F",
+    "fecha_nacimiento": {
+      "$date": "1995-02-09T00:00:00Z"
+    },
+    "correo": "mishell.yepez@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Desarrollo de Software",
+    "jornada": "NOCTURNA",
+    "trabaja": true,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-11T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0070",
+    "cedula": "1747526232",
+    "nombres": "Jessica Ana",
+    "apellidos": "Ruiz Pérez",
+    "genero": "F",
+    "fecha_nacimiento": {
+      "$date": "1997-07-10T00:00:00Z"
+    },
+    "correo": "jessica.ruiz2@estudiante.ejemplo.edu.ec",
+    "ciudad": "Sangolqui",
+    "carrera": "Ciencia de Datos e Inteligencia Artificial",
+    "jornada": "NOCTURNA",
+    "trabaja": true,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-14T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0071",
+    "cedula": "1757453582",
+    "nombres": "Kevin Pablo",
+    "apellidos": "Benítez Toapanta",
+    "genero": "M",
+    "fecha_nacimiento": {
+      "$date": "2006-03-03T00:00:00Z"
+    },
+    "correo": "kevin.benitez@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Ciencia de Datos e Inteligencia Artificial",
+    "jornada": "MATUTINA",
+    "trabaja": true,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0072",
+    "cedula": "1054104755",
+    "nombres": "Esteban Ricardo",
+    "apellidos": "Pérez Vera",
+    "genero": "M",
+    "fecha_nacimiento": {
+      "$date": "1994-09-17T00:00:00Z"
+    },
+    "correo": "esteban.perez@estudiante.ejemplo.edu.ec",
+    "ciudad": "Ibarra",
+    "carrera": "Ciencia de Datos e Inteligencia Artificial",
+    "jornada": "NOCTURNA",
+    "trabaja": true,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-19T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0073",
+    "cedula": "1729534949",
+    "nombres": "Juan José",
+    "apellidos": "Jaramillo Suárez",
+    "genero": "M",
+    "fecha_nacimiento": {
+      "$date": "2007-10-09T00:00:00Z"
+    },
+    "correo": "juan.jaramillo@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Ciencia de Datos e Inteligencia Artificial",
+    "jornada": "MATUTINA",
+    "trabaja": false,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-12T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0074",
+    "cedula": "1702619568",
+    "nombres": "Alejandra Camila",
+    "apellidos": "Vera Ortiz",
+    "genero": "F",
+    "fecha_nacimiento": {
+      "$date": "1989-01-03T00:00:00Z"
+    },
+    "correo": "alejandra.vera@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Desarrollo de Software",
+    "jornada": "NOCTURNA",
+    "trabaja": true,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-08T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0075",
+    "cedula": "1741703928",
+    "nombres": "Ana Nicole",
+    "apellidos": "Mora Pérez",
+    "genero": "F",
+    "fecha_nacimiento": {
+      "$date": "2008-06-15T00:00:00Z"
+    },
+    "correo": "ana.mora@estudiante.ejemplo.edu.ec",
+    "ciudad": "Sangolqui",
+    "carrera": "Desarrollo de Software",
+    "jornada": "MATUTINA",
+    "trabaja": false,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-11T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0076",
+    "cedula": "0131146359",
+    "nombres": "Darwin Juan",
+    "apellidos": "Valencia Paredes",
+    "genero": "M",
+    "fecha_nacimiento": {
+      "$date": "2008-04-17T00:00:00Z"
+    },
+    "correo": "darwin.valencia@estudiante.ejemplo.edu.ec",
+    "ciudad": "Cuenca",
+    "carrera": "Desarrollo de Software",
+    "jornada": "MATUTINA",
+    "trabaja": true,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-08T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0077",
+    "cedula": "1731671556",
+    "nombres": "Ana Karla",
+    "apellidos": "Andrade Cevallos",
+    "genero": "F",
+    "fecha_nacimiento": {
+      "$date": "2008-02-05T00:00:00Z"
+    },
+    "correo": "ana.andrade@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Ciencia de Datos e Inteligencia Artificial",
+    "jornada": "MATUTINA",
+    "trabaja": false,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-15T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0078",
+    "cedula": "0542992391",
+    "nombres": "Alexis Carlos",
+    "apellidos": "Suárez Herrera",
+    "genero": "M",
+    "fecha_nacimiento": {
+      "$date": "2000-04-16T00:00:00Z"
+    },
+    "correo": "alexis.suarez@estudiante.ejemplo.edu.ec",
+    "ciudad": "Latacunga",
+    "carrera": "Desarrollo de Software",
+    "jornada": "NOCTURNA",
+    "trabaja": true,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0079",
+    "cedula": "1749914709",
+    "nombres": "Juan Jorge",
+    "apellidos": "Zambrano Suárez",
+    "genero": "M",
+    "fecha_nacimiento": {
+      "$date": "1996-06-09T00:00:00Z"
+    },
+    "correo": "juan.zambrano@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Redes y Telecomunicaciones",
+    "jornada": "NOCTURNA",
+    "trabaja": true,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-13T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0080",
+    "cedula": "0542597349",
+    "nombres": "Juan Christian",
+    "apellidos": "Mora Paredes",
+    "genero": "M",
+    "fecha_nacimiento": {
+      "$date": "2006-02-15T00:00:00Z"
+    },
+    "correo": "juan.mora@estudiante.ejemplo.edu.ec",
+    "ciudad": "Latacunga",
+    "carrera": "Redes y Telecomunicaciones",
+    "jornada": "MATUTINA",
+    "trabaja": true,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-18T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0081",
+    "cedula": "1709208241",
+    "nombres": "Christian Andrés",
+    "apellidos": "Jaramillo Ortiz",
+    "genero": "M",
+    "fecha_nacimiento": {
+      "$date": "2003-05-05T00:00:00Z"
+    },
+    "correo": "christian.jaramillo@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Ciencia de Datos e Inteligencia Artificial",
+    "jornada": "MATUTINA",
+    "trabaja": true,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0082",
+    "cedula": "1751889872",
+    "nombres": "Nicole Fernanda",
+    "apellidos": "Pérez Cevallos",
+    "genero": "F",
+    "fecha_nacimiento": {
+      "$date": "2008-08-18T00:00:00Z"
+    },
+    "correo": "nicole.perez@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Desarrollo de Software",
+    "jornada": "MATUTINA",
+    "trabaja": true,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-09T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0083",
+    "cedula": "1753782760",
+    "nombres": "Estefanía Belén",
+    "apellidos": "Castillo Valencia",
+    "genero": "F",
+    "fecha_nacimiento": {
+      "$date": "2002-02-23T00:00:00Z"
+    },
+    "correo": "estefania.castillo@estudiante.ejemplo.edu.ec",
+    "ciudad": "Sangolqui",
+    "carrera": "Redes y Telecomunicaciones",
+    "jornada": "NOCTURNA",
+    "trabaja": true,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-14T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0084",
+    "cedula": "1713869699",
+    "nombres": "Christian José",
+    "apellidos": "Salazar Pérez",
+    "genero": "M",
+    "fecha_nacimiento": {
+      "$date": "1999-03-16T00:00:00Z"
+    },
+    "correo": "christian.salazar@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Ciencia de Datos e Inteligencia Artificial",
+    "jornada": "NOCTURNA",
+    "trabaja": true,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-14T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0085",
+    "cedula": "1706371711",
+    "nombres": "Fernanda Valeria",
+    "apellidos": "Pérez Benítez",
+    "genero": "F",
+    "fecha_nacimiento": {
+      "$date": "1998-04-08T00:00:00Z"
+    },
+    "correo": "fernanda.perez@estudiante.ejemplo.edu.ec",
+    "ciudad": "Sangolqui",
+    "carrera": "Redes y Telecomunicaciones",
+    "jornada": "NOCTURNA",
+    "trabaja": true,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-13T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0086",
+    "cedula": "1711610301",
+    "nombres": "Pablo Carlos",
+    "apellidos": "Espinosa Ruiz",
+    "genero": "M",
+    "fecha_nacimiento": {
+      "$date": "2007-02-12T00:00:00Z"
+    },
+    "correo": "pablo.espinosa@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Desarrollo de Software",
+    "jornada": "MATUTINA",
+    "trabaja": false,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-08T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0087",
+    "cedula": "0514190826",
+    "nombres": "Nicole Paola",
+    "apellidos": "Proaño Ruiz",
+    "genero": "F",
+    "fecha_nacimiento": {
+      "$date": "1994-12-21T00:00:00Z"
+    },
+    "correo": "nicole.proano@estudiante.ejemplo.edu.ec",
+    "ciudad": "Latacunga",
+    "carrera": "Desarrollo de Software",
+    "jornada": "NOCTURNA",
+    "trabaja": false,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-11T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0088",
+    "cedula": "0546378779",
+    "nombres": "Daniela Nicole",
+    "apellidos": "Chávez Aguirre",
+    "genero": "F",
+    "fecha_nacimiento": {
+      "$date": "2008-06-10T00:00:00Z"
+    },
+    "correo": "daniela.chavez@estudiante.ejemplo.edu.ec",
+    "ciudad": "Latacunga",
+    "carrera": "Desarrollo de Software",
+    "jornada": "MATUTINA",
+    "trabaja": false,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-12T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0089",
+    "cedula": "1702974476",
+    "nombres": "Paola Camila",
+    "apellidos": "Espinosa Salazar",
+    "genero": "F",
+    "fecha_nacimiento": {
+      "$date": "2002-12-15T00:00:00Z"
+    },
+    "correo": "paola.espinosa@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Desarrollo de Software",
+    "jornada": "MATUTINA",
+    "trabaja": true,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-11T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0090",
+    "cedula": "1730960562",
+    "nombres": "David Carlos",
+    "apellidos": "Morales Villacís",
+    "genero": "M",
+    "fecha_nacimiento": {
+      "$date": "2007-09-15T00:00:00Z"
+    },
+    "correo": "david.morales2@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Redes y Telecomunicaciones",
+    "jornada": "MATUTINA",
+    "trabaja": false,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-17T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0091",
+    "cedula": "1744037209",
+    "nombres": "Ana Estefanía",
+    "apellidos": "Morales Vera",
+    "genero": "F",
+    "fecha_nacimiento": {
+      "$date": "2002-03-27T00:00:00Z"
+    },
+    "correo": "ana.morales@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Ciencia de Datos e Inteligencia Artificial",
+    "jornada": "MATUTINA",
+    "trabaja": false,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-14T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0092",
+    "cedula": "1754807889",
+    "nombres": "Darwin Sebastián",
+    "apellidos": "Cevallos Castillo",
+    "genero": "M",
+    "fecha_nacimiento": {
+      "$date": "2007-10-14T00:00:00Z"
+    },
+    "correo": "darwin.cevallos2@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Desarrollo de Software",
+    "jornada": "MATUTINA",
+    "trabaja": false,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0093",
+    "cedula": "1859711002",
+    "nombres": "Sebastián David",
+    "apellidos": "Guerrero Benítez",
+    "genero": "M",
+    "fecha_nacimiento": {
+      "$date": "1991-07-22T00:00:00Z"
+    },
+    "correo": "sebastian.guerrero@estudiante.ejemplo.edu.ec",
+    "ciudad": "Ambato",
+    "carrera": "Desarrollo de Software",
+    "jornada": "NOCTURNA",
+    "trabaja": true,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-08T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0094",
+    "cedula": "0939298444",
+    "nombres": "Carolina Ana",
+    "apellidos": "Torres Quishpe",
+    "genero": "F",
+    "fecha_nacimiento": {
+      "$date": "2007-01-23T00:00:00Z"
+    },
+    "correo": "carolina.torres@estudiante.ejemplo.edu.ec",
+    "ciudad": "Guayaquil",
+    "carrera": "Ciencia de Datos e Inteligencia Artificial",
+    "jornada": "MATUTINA",
+    "trabaja": false,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-19T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0095",
+    "cedula": "1734323163",
+    "nombres": "Lucía Jessica",
+    "apellidos": "Espinosa Salazar",
+    "genero": "F",
+    "fecha_nacimiento": {
+      "$date": "1992-10-06T00:00:00Z"
+    },
+    "correo": "lucia.espinosa@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Desarrollo de Software",
+    "jornada": "NOCTURNA",
+    "trabaja": false,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-12T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0096",
+    "cedula": "1756725212",
+    "nombres": "Santiago Esteban",
+    "apellidos": "Quishpe Ortiz",
+    "genero": "M",
+    "fecha_nacimiento": {
+      "$date": "2008-04-07T00:00:00Z"
+    },
+    "correo": "santiago.quishpe@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Desarrollo de Software",
+    "jornada": "MATUTINA",
+    "trabaja": false,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-09T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0097",
+    "cedula": "1703831295",
+    "nombres": "Sebastián Diego",
+    "apellidos": "Valencia Andrade",
+    "genero": "M",
+    "fecha_nacimiento": {
+      "$date": "2008-06-22T00:00:00Z"
+    },
+    "correo": "sebastian.valencia@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Desarrollo de Software",
+    "jornada": "MATUTINA",
+    "trabaja": false,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-18T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0098",
+    "cedula": "1726579830",
+    "nombres": "Nicole Daniela",
+    "apellidos": "Pérez Mora",
+    "genero": "F",
+    "fecha_nacimiento": {
+      "$date": "2005-04-10T00:00:00Z"
+    },
+    "correo": "nicole.perez2@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Ciencia de Datos e Inteligencia Artificial",
+    "jornada": "MATUTINA",
+    "trabaja": false,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0099",
+    "cedula": "1729460962",
+    "nombres": "David Carlos",
+    "apellidos": "Suárez Torres",
+    "genero": "M",
+    "fecha_nacimiento": {
+      "$date": "1989-05-11T00:00:00Z"
+    },
+    "correo": "david.suarez@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Redes y Telecomunicaciones",
+    "jornada": "NOCTURNA",
+    "trabaja": false,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-08T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0100",
+    "cedula": "0103315602",
+    "nombres": "Juan Santiago",
+    "apellidos": "Zambrano Ruiz",
+    "genero": "M",
+    "fecha_nacimiento": {
+      "$date": "2004-12-27T00:00:00Z"
+    },
+    "correo": "juan.zambrano2@estudiante.ejemplo.edu.ec",
+    "ciudad": "Cuenca",
+    "carrera": "Desarrollo de Software",
+    "jornada": "MATUTINA",
+    "trabaja": false,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-15T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0101",
+    "cedula": "1755444617",
+    "nombres": "Luis Carlos",
+    "apellidos": "Torres Pérez",
+    "genero": "M",
+    "fecha_nacimiento": {
+      "$date": "2005-06-24T00:00:00Z"
+    },
+    "correo": "luis.torres@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Redes y Telecomunicaciones",
+    "jornada": "MATUTINA",
+    "trabaja": false,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-11T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0102",
+    "cedula": "1009218890",
+    "nombres": "Daniela Fernanda",
+    "apellidos": "Morales Villacís",
+    "genero": "F",
+    "fecha_nacimiento": {
+      "$date": "1997-10-20T00:00:00Z"
+    },
+    "correo": "daniela.morales@estudiante.ejemplo.edu.ec",
+    "ciudad": "Ibarra",
+    "carrera": "Ciencia de Datos e Inteligencia Artificial",
+    "jornada": "NOCTURNA",
+    "trabaja": false,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-11T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0103",
+    "cedula": "1739516852",
+    "nombres": "Bryan Kevin",
+    "apellidos": "Quishpe Cevallos",
+    "genero": "M",
+    "fecha_nacimiento": {
+      "$date": "1998-08-10T00:00:00Z"
+    },
+    "correo": "bryan.quishpe@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Ciencia de Datos e Inteligencia Artificial",
+    "jornada": "NOCTURNA",
+    "trabaja": true,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-19T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0104",
+    "cedula": "1032528455",
+    "nombres": "Estefanía Fernanda",
+    "apellidos": "Castillo Jaramillo",
+    "genero": "F",
+    "fecha_nacimiento": {
+      "$date": "1990-07-23T00:00:00Z"
+    },
+    "correo": "estefania.castillo2@estudiante.ejemplo.edu.ec",
+    "ciudad": "Ibarra",
+    "carrera": "Desarrollo de Software",
+    "jornada": "NOCTURNA",
+    "trabaja": true,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-12T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0105",
+    "cedula": "1722669817",
+    "nombres": "Alexis Jorge",
+    "apellidos": "López Paredes",
+    "genero": "M",
+    "fecha_nacimiento": {
+      "$date": "1999-02-15T00:00:00Z"
+    },
+    "correo": "alexis.lopez@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Redes y Telecomunicaciones",
+    "jornada": "NOCTURNA",
+    "trabaja": true,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-09T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0106",
+    "cedula": "1748691803",
+    "nombres": "Esteban Ricardo",
+    "apellidos": "Salazar Cevallos",
+    "genero": "M",
+    "fecha_nacimiento": {
+      "$date": "2003-05-03T00:00:00Z"
+    },
+    "correo": "esteban.salazar@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Redes y Telecomunicaciones",
+    "jornada": "MATUTINA",
+    "trabaja": false,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-14T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0107",
+    "cedula": "1711439545",
+    "nombres": "José Fernando",
+    "apellidos": "Toapanta Quishpe",
+    "genero": "M",
+    "fecha_nacimiento": {
+      "$date": "2003-09-02T00:00:00Z"
+    },
+    "correo": "jose.toapanta@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Redes y Telecomunicaciones",
+    "jornada": "NOCTURNA",
+    "trabaja": false,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-15T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0108",
+    "cedula": "1734122029",
+    "nombres": "Carolina Camila",
+    "apellidos": "Aguirre Vera",
+    "genero": "F",
+    "fecha_nacimiento": {
+      "$date": "2006-03-22T00:00:00Z"
+    },
+    "correo": "carolina.aguirre@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Ciencia de Datos e Inteligencia Artificial",
+    "jornada": "MATUTINA",
+    "trabaja": false,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-16T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0109",
+    "cedula": "1038878490",
+    "nombres": "Ricardo Esteban",
+    "apellidos": "Zambrano Torres",
+    "genero": "M",
+    "fecha_nacimiento": {
+      "$date": "2003-08-20T00:00:00Z"
+    },
+    "correo": "ricardo.zambrano@estudiante.ejemplo.edu.ec",
+    "ciudad": "Ibarra",
+    "carrera": "Ciencia de Datos e Inteligencia Artificial",
+    "jornada": "NOCTURNA",
+    "trabaja": false,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-16T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0110",
+    "cedula": "1728367085",
+    "nombres": "Fernando Ricardo",
+    "apellidos": "López Benítez",
+    "genero": "M",
+    "fecha_nacimiento": {
+      "$date": "2006-04-03T00:00:00Z"
+    },
+    "correo": "fernando.lopez@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Ciencia de Datos e Inteligencia Artificial",
+    "jornada": "MATUTINA",
+    "trabaja": false,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0111",
+    "cedula": "1816403206",
+    "nombres": "Carolina Jessica",
+    "apellidos": "Vera Jaramillo",
+    "genero": "F",
+    "fecha_nacimiento": {
+      "$date": "2007-03-20T00:00:00Z"
+    },
+    "correo": "carolina.vera@estudiante.ejemplo.edu.ec",
+    "ciudad": "Ambato",
+    "carrera": "Desarrollo de Software",
+    "jornada": "MATUTINA",
+    "trabaja": true,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-11T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0112",
+    "cedula": "0124579103",
+    "nombres": "Carolina Nicole",
+    "apellidos": "Salazar Jaramillo",
+    "genero": "F",
+    "fecha_nacimiento": {
+      "$date": "2005-10-19T00:00:00Z"
+    },
+    "correo": "carolina.salazar@estudiante.ejemplo.edu.ec",
+    "ciudad": "Cuenca",
+    "carrera": "Desarrollo de Software",
+    "jornada": "MATUTINA",
+    "trabaja": false,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-17T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0113",
+    "cedula": "1821435110",
+    "nombres": "Jessica Lucía",
+    "apellidos": "Mora Suárez",
+    "genero": "F",
+    "fecha_nacimiento": {
+      "$date": "2003-09-15T00:00:00Z"
+    },
+    "correo": "jessica.mora2@estudiante.ejemplo.edu.ec",
+    "ciudad": "Ambato",
+    "carrera": "Desarrollo de Software",
+    "jornada": "MATUTINA",
+    "trabaja": false,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-14T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0114",
+    "cedula": "1711245280",
+    "nombres": "Alexis Luis",
+    "apellidos": "Morales Salazar",
+    "genero": "M",
+    "fecha_nacimiento": {
+      "$date": "2003-04-06T00:00:00Z"
+    },
+    "correo": "alexis.morales2@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Redes y Telecomunicaciones",
+    "jornada": "NOCTURNA",
+    "trabaja": true,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-15T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0115",
+    "cedula": "1718243148",
+    "nombres": "Bryan José",
+    "apellidos": "Villacís Espinosa",
+    "genero": "M",
+    "fecha_nacimiento": {
+      "$date": "1988-02-26T00:00:00Z"
+    },
+    "correo": "bryan.villacis@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Redes y Telecomunicaciones",
+    "jornada": "NOCTURNA",
+    "trabaja": true,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-11T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0116",
+    "cedula": "1805866272",
+    "nombres": "Alexis Santiago",
+    "apellidos": "Suárez Espinosa",
+    "genero": "M",
+    "fecha_nacimiento": {
+      "$date": "2003-03-01T00:00:00Z"
+    },
+    "correo": "alexis.suarez2@estudiante.ejemplo.edu.ec",
+    "ciudad": "Ambato",
+    "carrera": "Redes y Telecomunicaciones",
+    "jornada": "MATUTINA",
+    "trabaja": true,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-19T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0117",
+    "cedula": "1845835907",
+    "nombres": "Lucía Estefanía",
+    "apellidos": "Andrade Cevallos",
+    "genero": "F",
+    "fecha_nacimiento": {
+      "$date": "2008-12-12T00:00:00Z"
+    },
+    "correo": "lucia.andrade@estudiante.ejemplo.edu.ec",
+    "ciudad": "Ambato",
+    "carrera": "Desarrollo de Software",
+    "jornada": "MATUTINA",
+    "trabaja": false,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-16T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0118",
+    "cedula": "1758300071",
+    "nombres": "Fernando Carlos",
+    "apellidos": "Herrera Castillo",
+    "genero": "M",
+    "fecha_nacimiento": {
+      "$date": "2006-06-11T00:00:00Z"
+    },
+    "correo": "fernando.herrera@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Ciencia de Datos e Inteligencia Artificial",
+    "jornada": "MATUTINA",
+    "trabaja": false,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0119",
+    "cedula": "1729089829",
+    "nombres": "María Daniela",
+    "apellidos": "García Cevallos",
+    "genero": "F",
+    "fecha_nacimiento": {
+      "$date": "2006-04-01T00:00:00Z"
+    },
+    "correo": "maria.garcia@estudiante.ejemplo.edu.ec",
+    "ciudad": "Sangolqui",
+    "carrera": "Ciencia de Datos e Inteligencia Artificial",
+    "jornada": "MATUTINA",
+    "trabaja": false,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-17T00:00:00Z"
+    }
+  },
+  {
+    "_id": "EST-0120",
+    "cedula": "1724834476",
+    "nombres": "Camila Jessica",
+    "apellidos": "Castillo Herrera",
+    "genero": "F",
+    "fecha_nacimiento": {
+      "$date": "2008-10-19T00:00:00Z"
+    },
+    "correo": "camila.castillo@estudiante.ejemplo.edu.ec",
+    "ciudad": "Quito",
+    "carrera": "Ciencia de Datos e Inteligencia Artificial",
+    "jornada": "MATUTINA",
+    "trabaja": false,
+    "periodo": "2026-II",
+    "fecha_matricula": {
+      "$date": "2026-09-19T00:00:00Z"
+    }
+  }
+]
